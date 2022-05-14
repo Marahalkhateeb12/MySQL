@@ -57,10 +57,10 @@
                                 <a href="About.php" class="text-reset">About us</a>
                             </p>
                             <p>
-                                <a href="AddItem.php" class="text-reset">Add Item</a>
+                                <a href="AddPage.php" class="text-reset">Add Item</a>
                             </p>
                             <p>
-                                <a href="ViewAllItems.php" class="text-reset">View All Items</a>
+                                <a href="ViewItem.php" class="text-reset">View All Items</a>
                             </p>
                         </div>
                         <!-- Grid column -->

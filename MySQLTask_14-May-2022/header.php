@@ -26,10 +26,10 @@
                         <a class="nav-link" href="About.php">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="AddItem.php">Add Item</a>
+                        <a class="nav-link" href="AddPage.php">Add Item</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="ViewAllItems.php">View All Items</a>
+                        <a class="nav-link " href="ViewItem.php">View All Items</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link " href="Contact.php">Contact Us</a>
